@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio for Mac
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "361-The_Walls-2018.1.2-黄渊超", "Assembly-CSharp.csproj", "{F6DD71D8-F2AA-0AFA-9492-A13DBD0B769C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "361-The_Walls-2018.1.2-黄渊超", "Assembly-CSharp-Editor.csproj", "{7F2AFE9C-B1EA-2D65-89EA-849D0B890ADF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6DD71D8-F2AA-0AFA-9492-A13DBD0B769C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6DD71D8-F2AA-0AFA-9492-A13DBD0B769C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6DD71D8-F2AA-0AFA-9492-A13DBD0B769C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6DD71D8-F2AA-0AFA-9492-A13DBD0B769C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F2AFE9C-B1EA-2D65-89EA-849D0B890ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F2AFE9C-B1EA-2D65-89EA-849D0B890ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F2AFE9C-B1EA-2D65-89EA-849D0B890ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F2AFE9C-B1EA-2D65-89EA-849D0B890ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

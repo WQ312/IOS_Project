@@ -1,0 +1,10 @@
+Language = ChineseSimplified
+
+// Home
+
+SCORE = 分数：
+CLAIM = 礼   包
+BEST = 最高分：
+FreeCoins = 免费的硬币
+THE_WALLS = 音跃方块      冲刺
+

@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{E2C2E2C5-F4A6-7DB7-A067-EDBFD8C8CD92}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/The_Walls/Scripts/Services/ScoreManager.cs">
+    <Files>
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/UIManager.cs" Line="156" Column="50" />
+      <File FileName="Assets/The_Walls/Scripts/Services/DailyRewardManager.cs" Line="63" Column="20" />
+      <File FileName="Assets/The_Walls/Scripts/Services/ScoreManager.cs" Line="15" Column="36" />
+      <File FileName="Assets/Script/Sdk_Unity/GameSdkUnity.cs" Line="194" Column="29" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

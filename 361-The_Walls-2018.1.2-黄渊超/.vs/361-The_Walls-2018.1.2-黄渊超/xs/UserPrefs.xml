@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F6DD71D8-F2AA-0AFA-9492-A13DBD0B769C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/The_Walls/Scripts/Gameplay/CharacterScroller.cs">
+    <Files>
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/UIManager.cs" Line="82" Column="38" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/Neigou.cs" Line="37" Column="3" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/PlayerController.cs" Line="135" Column="28" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/RewardedCoinsController.cs" Line="8" Column="14" />
+      <File FileName="Assets/The_Walls/Scripts/Services/CoinManager.cs" Line="34" Column="19" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/CharacterScroller.cs" Line="70" Column="67" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/GameManager.cs" Line="127" Column="90" />
+      <File FileName="Assets/The_Walls/Scripts/Services/SoundManager.cs" Line="28" Column="32" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/CoinController.cs" Line="17" Column="41" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/EasyType.cs" Line="1" Column="1" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/EaseType.cs" Line="143" Column="6" />
+      <File FileName="Assets/The_Walls/Scripts/Services/ShareManager.cs" Line="164" Column="6" />
+      <File FileName="Assets/Resources/Localization/ChineseSimplified.txt" Line="9" Column="23" />
+      <File FileName="Assets/The_Walls/Scripts/Services/DailyRewardManager.cs" Line="21" Column="25" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/ObjectResetter.cs" Line="9" Column="18" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/WallController.cs" Line="59" Column="78" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/BoxController.cs" Line="1" Column="1" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/CharacterManager.cs" Line="10" Column="24" />
+      <File FileName="Assets/The_Walls/Scripts/Gameplay/CharacterInfo.cs" Line="6" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
